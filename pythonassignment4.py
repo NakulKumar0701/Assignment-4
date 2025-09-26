@@ -15,4 +15,8 @@ print("Final content of output.txt:")
 b = open("output.txt", "r")
 i = b.read()
 b.close()
+
 print(i)
+
+
+
