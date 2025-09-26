@@ -7,4 +7,12 @@ try:
     print("Line1 :", x.strip())
     print("Line2 :", y.strip())
 except FileNotFoundError:
+
     print(f"The file {b} was not found")    
+
+
+
+
+
+
+
